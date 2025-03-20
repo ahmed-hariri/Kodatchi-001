@@ -20,4 +20,5 @@
   📚 Currently learning new technologies to enhance my skills.<br>
   🎯 Goal: Create high-performance and scalable applications.<br>
   🎲 Fun fact: I love exploring new libraries and frameworks to optimize my workflow.
+  🔗 Connect with me on <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a><br>
 </p>
