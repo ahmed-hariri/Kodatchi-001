@@ -11,8 +11,3 @@
 ###
 
 <p align="left">✨ Passionate about web development and building intuitive user interfaces.<br>📚 Currently learning new technologies to enhance my skills.<br>🎯 Goal: Create high-performance and scalable applications.<br>🎲 Fun fact: I love exploring new libraries and frameworks to optimize my workflow.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
