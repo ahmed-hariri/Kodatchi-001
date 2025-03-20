@@ -29,7 +29,7 @@
 ###
 
 <p align="left">
-  🔗 Connect with me on <a href="https://www.linkedin.com/in/ahmed-hariri-965460295" target="_blank">LinkedIn</a><br> 
-  🌐 Check out my work at <a href="https://ahmed-hrr.vercel.app" target="_blank">My Portfolio</a><br>
+  🔗 Connect with me on <a href="https://www.linkedin.com/in/ahmed-hariri-965460295" target="_blank">LinkedIn</a> |  
+  🌐 Check out my work at <a href="https://ahmed-hrr.vercel.app" target="_blank">My Portfolio</a> |  
   📸 Follow my projects on <a href="https://www.instagram.com/ahmed__hrr" target="_blank">Instagram</a>
 </p>
