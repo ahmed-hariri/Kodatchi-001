@@ -20,5 +20,16 @@
   📚 Currently learning new technologies to enhance my skills.<br>
   🎯 Goal: Create high-performance and scalable applications.<br>
   🎲 Fun fact: I love exploring new libraries and frameworks to optimize my workflow.<br>
-  🔗 Connect with me on <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a><br>
+</p>
+
+###
+
+<h2 align="left">Social media</h2>
+
+###
+
+<p align="left">
+  🔗 Connect with me on <a href="https://www.linkedin.com/in/ahmed-hariri-965460295" target="_blank">LinkedIn</a> |  
+  🌐 Check out my work at <a href="https://ahmed-hrr.vercel.app" target="_blank">My Portfolio</a> |  
+  📸 Follow my projects on <a href="https://www.instagram.com/ahmed__hrr" target="_blank">Instagram</a>
 </p>
