@@ -29,7 +29,7 @@
 ###
 
 <p align="left">
-  🔗 Connect with me on <a href="https://www.linkedin.com/in/ahmed-hariri-965460295" target="_blank">LinkedIn</a> | 
+  🔗 Connect with me on <a href="https://www.linkedin.com/in/ahmed-hrr" target="_blank">LinkedIn</a> | 
   📸 Follow my projects on <a href="https://www.instagram.com/ahmed__hrr" target="_blank">Instagram</a> | 
   🐦 Follow me on <a href="https://x.com/kodatchi_001" target="_blank">Twitter</a>
 </p>
